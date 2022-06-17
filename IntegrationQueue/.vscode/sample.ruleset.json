@@ -1,25 +1,10 @@
 {
-    "name": "Product ruleset",
-    "rules": [
-        {
-            "id": "AA0005",
-            "action": "None",
-            "justification": "Only use BEGIN..END to enclose compound statements"
-        },
-        {
-            "id": "AA0072",
-            "action": "None",
-            "justification": "The name of xxx is not valid. The name of variables and parameters must be suffixed with the type or object name."
-        },
-        {
-            "id": "AA0073",
-            "action": "None",
-            "justification": "The name of temporary variable xxx must be prefixed with Temp."
-        },
-        {
-            "id": "AA0218",
-            "action": "None",
-            "justification": "No tooltips"
-        }
-    ]
+  "name": "Product ruleset",
+  "rules": [
+    {
+      "id": "AA0072",
+      "action": "None",
+      "justification": "The name of xxx is not valid. The name of variables and parameters must be suffixed with the type or object name."
+    }
+  ]
 }

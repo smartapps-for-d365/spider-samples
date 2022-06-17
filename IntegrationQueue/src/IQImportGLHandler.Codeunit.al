@@ -10,17 +10,11 @@ codeunit 63200 "IQ Import G/L Handler" implements "QWESR IQ Integration Type"
 
         case Rec."Next Step" of
             "QWESR IQ Step"::Parse:
-                begin
-                    ParseData(Rec);
-                end;
+                ParseData(Rec);
             "QWESR IQ Step"::Validate:
-                begin
-                    ValidateData(Rec);
-                end;
+                ValidateData(Rec);
             "QWESR IQ Step"::Post:
-                begin
-                    PostData(Rec);
-                end;
+                PostData(Rec);
             else
                 Error('Unknown step ''%1'' for integration ''%2''!', Rec."Next Step", Rec."Integration Setup Code");
         end;
