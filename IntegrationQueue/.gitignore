@@ -1,0 +1,15 @@
+# User specific files
+.vscode/launch.json
+.vscode/rad.json
+permissionsAnalyzer.json
+.snapshots/*
+
+# AL Object Designer Extension
+.alcache/*
+.vscode/.alcache/*
+.altemplates/*
+.vscode/.altemplates/*
+
+# Binary app files
+/*.app
+.alpackages/*.app
