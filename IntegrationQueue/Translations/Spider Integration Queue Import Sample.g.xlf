@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Spider Integration Queue Import Sample">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1561675202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ G/L Import Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Import Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1561675202 - Field 972616144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Setup Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Import Setup - Field Integration Setup Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1561675202 - Field 928727856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Import Setup - Field Posting Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1561675202 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Import Setup - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ G/L Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 1622979514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 2679649230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Register No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field G/L Register No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 3144358093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field IQ Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 1286329895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manually Changed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Manually Changed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 261083774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Posted Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954802494 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ G/L Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ History G/L Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 1622979514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Account No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 592951229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Amount (LCY) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 2679649230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Register No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field G/L Register No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 3144358093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field IQ Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 1286329895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manually Changed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Manually Changed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 261083774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Posted Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3325955892 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IQ History G/L Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1561675202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ G/L Import Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1561675202 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1561675202 - Control 972616144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for this integration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Control Integration Setup Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1561675202 - Control 928727856 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series used for posting to G/L.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Control Posting Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1561675202 - Control 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the source code that will be used when posting to G/L.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Control Source Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ G/L Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 1622979514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account number that was imported from the text file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in LCY that was imported from the text file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description that was imported from the text file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 3144358093 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number for the Integration Queue Entry that this line is connected to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control IQ Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number for this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 1286329895 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the line has been manually modified by a user.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Manually Changed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2442564651 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date that was imported from the text file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IQ History G/L Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 1622979514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the account number that was used when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Account No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 592951229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount in LCY that was used when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Amount (LCY) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description that was used when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document number that was used when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 2679649230 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the G/L register that was created when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control G/L Register No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 3144358093 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number for the Integration Queue History that this line is connected to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control IQ Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number for this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Line No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 1286329895 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the line has been manually modified by a user after the file was imported, but before posting.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Manually Changed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 261083774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the entry number for the posted G/L Entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Posted Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1699192757 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date that was used when posting this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1317991584 - EnumValue 1579847885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2136664920">
+          <source>Import G/L Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension IQIT Extension - EnumValue Import G/L Entries - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

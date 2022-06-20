@@ -1,0 +1,40 @@
+{
+  "id": "e7ebbcb4-6179-4c25-a47c-947aca03c5b8",
+  "name": "Spider Integration Queue Import Sample",
+  "publisher": "SmartApps",
+  "brief": "This app is a sample implementation of an import to G/L via the Integration Queue in Spider",
+  "description": "",
+  "version": "19.0.2.0",
+  "logo": "./logo/logo.png",
+  "application": "19.0.0.0",
+  "platform": "19.0.0.0",
+  "runtime": "8.0",
+  "dependencies": [
+    {
+      "id": "7ef386a9-7053-4bfc-908a-2b19e952c60d",
+      "name": "Spider",
+      "publisher": "SmartApps",
+      "version": "19.6.53534.0"
+    },
+    {
+      "id": "4de6ec79-a99a-47a1-9190-a0b9064e8236",
+      "name": "Smart Toolbox",
+      "publisher": "SmartApps",
+      "version": "19.5.47950.0"
+    }
+  ],
+  "screenshots": [],
+  "idRanges": [
+    {
+      "from": 63200,
+      "to": 63250
+    }
+  ],
+  "target": "Cloud",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": ["TranslationFile", "NoImplicitWith"]
+}
