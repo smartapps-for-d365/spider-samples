@@ -185,7 +185,7 @@
         </trans-unit>
         <trans-unit id="Page 1561675202 - Control 2720485332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the source code that will be used when posting to G/L.</source>
-          <target>Anger uprsprungskoden som ska användas vid bokföring.</target>
+          <target>Anger ursprungskoden som ska användas vid bokföring.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Import Setup - Control Source Code - Property ToolTip</note>
         </trans-unit>
@@ -275,7 +275,7 @@
         </trans-unit>
         <trans-unit id="Page 1699192757 - Control 3144358093 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the entry number for the Integration Queue History that this line is connected to.</source>
-          <target>Anger löpnumret för den integrationsköhistorik som den här raden är ansluten till.</target>
+          <target>Anger löpnumret för den integrationsköhistorik som den här raden är kopplad till.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control IQ Entry No. - Property ToolTip</note>
         </trans-unit>
@@ -293,7 +293,7 @@
         </trans-unit>
         <trans-unit id="Page 1699192757 - Control 261083774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the entry number for the posted G/L Entry.</source>
-          <target>Anger köpnumret för den bokförda redovisningstransaktionen.</target>
+          <target>Anger löpnumret för den bokförda redovisningstransaktionen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Posted Entry No. - Property ToolTip</note>
         </trans-unit>
