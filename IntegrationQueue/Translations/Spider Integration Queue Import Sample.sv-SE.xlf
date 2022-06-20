@@ -215,7 +215,7 @@
         </trans-unit>
         <trans-unit id="Page 2442564651 - Control 3144358093 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the entry number for the Integration Queue Entry that this line is connected to.</source>
-          <target>Anger löpnumret för den integrationsköpost som den här raden är ansluten till.</target>
+          <target>Anger löpnumret för den integrationsköpost som den här raden är kopplad till.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IQ G/L Lines - Control IQ Entry No. - Property ToolTip</note>
         </trans-unit>
