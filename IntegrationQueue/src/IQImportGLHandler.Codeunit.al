@@ -112,7 +112,7 @@ codeunit 63200 "IQ Import G/L Handler" implements "QWESR IQ Integration Type"
     #region Event Subscribers
     local procedure IsMyEvent(pIntegrationType: Enum "QWESR IQ Integration Type"): Boolean
     begin
-        exit(pIntegrationType = "QWESR IQ Integration Type"::"Import G/L Entries");
+        exit(pIntegrationType = "QWESR IQ Integration Type"::"Import G/L Entries (Sample)");
     end;
 
     /// <summary>
@@ -206,9 +206,9 @@ codeunit 63200 "IQ Import G/L Handler" implements "QWESR IQ Integration Type"
     procedure GetIntegrationSteps(IntegrationType: Codeunit "QWESR Integration Type Mgt."; var IQStepOrder: Record "QWESR tIQStepOrder" temporary)
 #pragma warning restore AL0432
     begin
-        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries", IQStepOrder, "QWESR IQ Step"::Parse, Codeunit::"IQ Import G/L Handler");
-        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries", IQStepOrder, "QWESR IQ Step"::Validate, Codeunit::"IQ Import G/L Handler");
-        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries", IQStepOrder, "QWESR IQ Step"::Post, Codeunit::"IQ Import G/L Handler");
+        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries (Sample)", IQStepOrder, "QWESR IQ Step"::Parse, Codeunit::"IQ Import G/L Handler");
+        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries (Sample)", IQStepOrder, "QWESR IQ Step"::Validate, Codeunit::"IQ Import G/L Handler");
+        IntegrationType.AddIntegrationStep("QWESR IQ Integration Type"::"Import G/L Entries (Sample)", IQStepOrder, "QWESR IQ Step"::Post, Codeunit::"IQ Import G/L Handler");
     end;
 
     procedure ArchiveData(IQ: Record "QWESR Integration Queue")
