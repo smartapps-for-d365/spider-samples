@@ -303,11 +303,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page IQ History G/L Lines - Control Posting Date - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="EnumExtension 1317991584 - EnumValue 1579847885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2136664920">
-          <source>Import G/L Entries</source>
-          <target>Importera redovisningstransaktioner</target>
+        <trans-unit id="EnumExtension 1317991584 - EnumValue 2772884752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2136664920">
+          <source>Import G/L Entries (Sample)</source>
+          <target>Importera redovisningstransaktioner (exempel)</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension IQIT Extension - EnumValue Import G/L Entries - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension IQIT Extension - EnumValue Import G/L Entries (Sample) - Property Caption</note>
         </trans-unit>
       </group>
     </body>
